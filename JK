@@ -1,0 +1,8 @@
+pip install sketchpy
+
+from sketchpy import library as lib 
+obj = lib.bts()
+obj.draw()
+
+#output 
+# will be a sketch 
